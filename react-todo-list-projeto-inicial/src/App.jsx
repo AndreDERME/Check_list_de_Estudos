@@ -60,6 +60,7 @@ function App() {
             <IconSchool /> Plano de estudos
           </Heading>
         </Header>
+        <Dialog></Dialog>
         <ChecklistsWrapper>
           <SubHeading>Para estudar</SubHeading>
           <ToDoList>
